@@ -1,7 +1,5 @@
 Hey 👋
 
-# Jordon 
-
 **Security Engineer | AI Automation | Full-Stack Developer**
 
 Building secure, intelligent systems with clean UX. 5+ years professional experience across cloud security, infrastructure, and modern web development.
